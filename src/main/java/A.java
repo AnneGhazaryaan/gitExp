@@ -3,5 +3,7 @@ public class A {
     System.out.printf("a");
     System.out.printf("new branch");
     System.out.printf("ex");
+    
+    System.out.printf("mf");
   }
 }
