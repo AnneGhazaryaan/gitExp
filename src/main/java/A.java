@@ -5,6 +5,6 @@ public class A {
     
     System.out.printf("6");
 
-    System.out.printf("2");
+    System.out.printf("7");
   }
 }
