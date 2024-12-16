@@ -6,5 +6,7 @@ public class A {
     System.out.printf("0");
 
     System.out.printf("00");
+
+    System.out.println("444");
   }
 }
