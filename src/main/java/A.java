@@ -5,6 +5,6 @@ public class A {
     
     System.out.printf("and this");
 
-    System.out.printf("hi");
+    System.out.printf("9");
   }
 }
