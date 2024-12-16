@@ -3,8 +3,8 @@ public class A {
 
     System.out.printf("only this");
     
-    System.out.printf("9");
+    System.out.printf("0");
 
-    System.out.printf("10");
+    System.out.printf("00");
   }
 }
