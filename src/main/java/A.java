@@ -3,7 +3,7 @@ public class A {
 
     System.out.printf("only this");
     
-    System.out.printf("1");
+    System.out.printf("6");
 
     System.out.printf("2");
   }
